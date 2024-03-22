@@ -1,0 +1,166 @@
+*{
+    font-family: "Volkhov", serif;
+    margin:0px;
+}
+.header{
+   margin-top:10px;
+   padding:15px;
+}
+.right{
+    float:right;
+}
+.page1body{
+    /* margin-top:60px; */
+    font-family;
+
+}
+h1{ 
+    text-align: center;
+    /* font-family: */
+    font-size: 95px;
+    margin:0px;
+    font-weight:30;
+
+}
+.page1button{
+    background-color:white;
+    border: none;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* width:50px; */
+    /* height:50px; */
+    font-size: 18px;
+    border-radius:3px; ;
+    margin-left:5px;
+}
+.page1button:hover{
+    background-color:black;
+    color:white;
+    border-radius: 8px;
+}
+.image{
+    /* padding-right:50%; */
+    text-align: center;
+    
+}
+.text{
+    text-align: center;
+    margin:120px;
+    justify-content: center;
+    
+    
+}
+.page2body{
+    margin:200px;
+}
+ .dark{
+    /* background-color:white */
+    border: none;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: larger;
+    margin:20px;
+    font-size: 30px;
+ }
+ .light{
+    opacity: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: larger;
+    margin:20px;
+    font-size: 30px;
+    margin-bottom:90px;
+
+
+
+    
+ }
+ h5{
+    margin:8px;
+    opacity: 60%;
+    /* display:inline; */
+    float:left;
+    display: block;
+ }
+ .left{
+  float: right;
+}
+.Footer{
+    background-color: black;
+    color:white;
+    height:200px;
+    display: flex;
+    flex-direction: column;
+
+}
+.leftf1{
+    float:left;
+    /* margin:20px; */
+    display: inline-block;
+    
+    
+}
+.leftf2{
+    float:left;
+    /* margin:20px; */
+    display: inline;
+
+
+}
+.rightf3{
+    float:right;
+    /* margin:20px; */
+    display: inli
+}
+
+.years{
+    font-weight: bold;
+}
+.crosby{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.senior{
+    font-weight: bold;
+}
+.lorem{
+    color: gray;
+    opacity: 0.9;
+}
+.cross{
+    margin-bottom: 20px;
+}
+.line-section{
+    height: 1.5px;
+    width: 900px;
+    background-color: gray;
+    opacity: 0.5;
+    margin-bottom: 20px;
+}
+.experience{
+    width: 500px;
+    margin-left: 200px;
+}
+.text-experience{
+    font-weight: bold;
+    width: 100px;
+    font-size: 6rem;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+}
+.cross-section{
+    margin-left: 500px;
+}
+.year{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 200px;
+}
+.img{
+     size:10px;
+     border-radius:30px;
+}
