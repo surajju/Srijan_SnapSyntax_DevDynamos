@@ -9,11 +9,7 @@
 .right{
     float:right;
 }
-.page1body{
-    /* margin-top:60px; */
-    font-family;
 
-}
 h1{ 
     text-align: center;
     /* font-family: */
@@ -164,3 +160,105 @@ h1{
      size:10px;
      border-radius:30px;
 }
+.image{
+    /* border: 2px solid; */
+    border-radius:10px;
+}
+.footer{
+    height: 50vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+ }
+
+ .leftFooter{
+    width: 80vw;
+    margin: 10px;
+    padding: 12px;
+ }
+
+ .text2gray{
+    font-size: 10px;
+    font-weight: 200;
+    color: rgb(128, 128, 128);
+ }
+
+ .text1white{
+    padding-bottom: 15px;
+ }
+ 
+ .imageFooter{
+    margin-top: 24px;
+    width:10px;
+    height:10px;
+ }
+
+ .rightFooter{
+    width: 60vw;
+    margin: 10px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+ }
+
+ .rightFooter .largeTextWhite{
+    font-size: 40px;
+    font-weight: 700;
+ }
+
+ .mailbox{
+    width: 208px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.914);
+    color: rgba(0, 0, 0, 0.868);
+    border-radius: 11px;
+ }
+
+ .containermail{
+    padding: 12px;
+ }
+
+ .lowerBox{
+    display: flex;
+    flex-direction: row;
+
+ }
+ 
+ .left11{
+    padding: 5px 0px;
+    width: 400px;
+ }
+
+ .headingleft{
+    margin-bottom: 12px;
+    font-weight: 800;
+    color: rgb(100, 100, 100);
+ }
+
+ .right11{
+    padding: 5px 0px;
+    width: 400px;
+    
+ }
+
+ .socialsxx{
+    display: flex;
+    list-style: none;
+ }
+
+ .leftsoc{
+    width: 140px;
+ }
+
+ .rightsoc{
+    width: 140px;
+ }
+
+ .headingright11{
+    margin-bottom: 12px;
+    font-weight: 800;
+    color: rgb(100, 100, 100);
+ }
